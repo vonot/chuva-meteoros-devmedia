@@ -9,6 +9,11 @@ Minha implementação do [Projeto Chuva de Meteoros](https://www.devmedia.com.br
 - [Yarn](https://yarnpkg.com/)
 
 ## Screenshot
-[img1](https://github.com/vonot/chuva-meteoros-devmedia/blob/master/img/1.gif)
-[img2]()
-[img3]()
+Situação padrão da aplicação: chuvas ocorrendo e chuvas proximas encontradas!
+![](img/1.gif)
+
+Situação incomum da aplicação: nenhuma chuva ocorrendo foi encontrada!
+![](img/2.gif)
+
+Situação incomum da aplicação²: nenhuma chuva próxima foi encontrada!
+![](img/3.gif)
