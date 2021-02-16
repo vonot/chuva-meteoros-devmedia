@@ -9,4 +9,6 @@ Minha implementação do [Projeto Chuva de Meteoros](https://www.devmedia.com.br
 - [Yarn](https://yarnpkg.com/)
 
 ## Screenshot
-
+[img1](https://github.com/vonot/chuva-meteoros-devmedia/blob/master/img/1.gif)
+[img2]()
+[img3]()
