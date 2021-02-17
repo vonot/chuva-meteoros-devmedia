@@ -3,7 +3,6 @@
 <p align="center">Minha implementação do <a href='https://www.devmedia.com.br/javascript/Construindo-projeto-completo' target="_blank">Projeto Chuva de Meteoros</a> proposto pela <a href='https://github.com/DevMedia'>@DevMedia</a> ao final do curso de JavaScript.</p>
 
 <p align="center">
-<a href='https://www.linkedin.com/in/vonot/'><img src="https://img.shields.io/static/v1?label=LinkedIn&message=/in/vonot&color=0A66C2&style=flat&logo=linkedin" title="/in/vonot/"/></a>
 <img src="https://img.shields.io/static/v1?label=JavaScript&message=ES6&color=F7DF1E&style=flat&logo=javascript"/>
 <img src="https://img.shields.io/static/v1?label=NodeJS&message=14.15.5&color=339933&style=flat&logo=node.js" />
 <img src="https://img.shields.io/static/v1?label=BabelJS&message=7.12.16&color=f5da55&style=flat&logo=babel"/>
@@ -64,7 +63,7 @@
 <p>Análogo o processo de exibir as chuvas ocorrendo, iremos exibir as chuvas que irão acontecer em um periodo de até dois meses.</p>
 
 ![](img/2.gif)
-<h2 id="how">Como Rodar</h2>
+<h2 id="how"> :question: Como Rodar</h2>
 <h3 id="req">Requisitos</h3>
 Para excutar o projeto é necessário ter instalado no seu computador:
 <a href="https://nodejs.org/en/" target"_blank"><strong>NodeJS</strong></a> <a href="https://yarnpkg.com/" target="_blank"><strong>YarnPKG</strong></a>
@@ -163,5 +162,15 @@ Para desenvolver esse proejeto foram utilizados:
   <li><a href="https://babeljs.io/" target="_blank">BabelJS</a></li>
   <li><a href="https://expressjs.com/" target="_blank">Express</a></li>
  </ul>
-<h2 id="autor">Autor</h2>
-<h2 id="licenca">Licença</h2>
+<h2 id="autor"> :smile: Autor</h2>
+
+<img src="https://instagram.fppy3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/149724174_2695913317376444_3861854001040352009_n.jpg?_nc_ht=instagram.fppy3-1.fna.fbcdn.net&_nc_ohc=UVDjhY42qtoAX8fYfqT&tp=1&oh=f58e0d372edfa11d100f01b0940c8213&oe=60569FBA" alt="Rafael Felipe" title="Rafael Felipe" style='border: 1px solid white;'>
+Desenvolvido por: Rafael Felipe
+
+<a href='https://www.linkedin.com/in/vonot/'><img src="https://img.shields.io/static/v1?label=LinkedIn&message=/in/vonot&color=0A66C2&style=flat&logo=linkedin" title="/in/vonot/"/></a>
+
+<a href='https://www.instagram.com/vonot16/'><img src="https://img.shields.io/static/v1?label=Instagram&message=@vonot16&color=E4405F&style=flat&logo=instagram" title="/in/vonot/"/></a>
+
+
+<h2 id="licenca"> :pencil: Licença</h2>
+Projeto sob Licença do [MIT](./LICENSE)
