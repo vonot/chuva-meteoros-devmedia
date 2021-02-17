@@ -26,10 +26,13 @@
     <li><a href="#how">Como Rodar</a>
    <ul>
      <li><a href="#req">Pré Requisitos</a></li>
-      <li>Clonando Repositório</li>
-      <li>Iniciando Aplicação</li>
+     <li><a href="#clone">Clonando Repositório</a></li>
+     <li><a href="#iniciando">Iniciando Aplicação</a></li>
     </ul>
   </li>
+    <li><a href="#tecnologia">Tecnologia Utilizadas</a></li>
+    <li><a href="#autor">Autor</a></li>
+    <li><a href="#licenca">Licença</a></li>
 </ul>
 
 <h2 id="funcionalidades">:thinking: Funcionalidades</h2>
@@ -64,16 +67,13 @@
 <h2 id="how">Como Rodar</h2>
 <h3 id="req">Requisitos</h3>
 Para excutar o projeto é necessário ter instalado no seu computador:
-<a href="https://nodejs.org/en/" target"_blank"><strong>NodeJS</strong></a>
-
-<a href="https://yarnpkg.com/" target="_blank"><strong>YarnPKG</strong></a>
+<a href="https://nodejs.org/en/" target"_blank"><strong>NodeJS</strong></a> <a href="https://yarnpkg.com/" target="_blank"><strong>YarnPKG</strong></a>
 
 <h4>Guia de Instalação de Requisitos para cada SO:</h4>
 
 <ul>
   <li><a href="#linux">Linux (Ubuntu/Debian)</a></li>
-  <li>MAC</li>
-  <li>Windows</li>
+  <li><a href="#mac-win">MAC e Windows</a></li>
 </ul>
 
 <strong>Se ocorrer algum problema durante a instalação recomendo procurar ajuda na documentação dos projetos.</strong>
@@ -109,4 +109,59 @@ yarn -v
 ```
 Agora só falta <a href="#clone">clonar o projeto e executa-lo</a>
 
+<h5 id="mac-win">Mac OS e Windows</h5>
+
+Para instalar o NodeJs no sistema Mac e Windows voçê só precisa acessar o [site oficial](https://nodejs.org/en/download/), fazer o download do instalador para o seu sistema, recomendo a versão LTS, e executar o processo de instalação padrão para qualquer software
+
+Após instala-lo vamos verificar se esta tudo ok executando o seguinte comando no terminal.
+Recomendo que execute o terminal como administrador para quem está utilizando o windows
+
+```sh
+node -v
+npm -v
+
+```
+
+Caso apareça a versão do Node e o NPM tudo foi feito correntamente e podemos instalar o YarnPKG, caso contrario recomendo dar uma olhada na [documentação do NodeJs](https://nodejs.org/en/docs/)
+
+Com o node instalado, instalar o yarn é extremamente simples basta excutarmos este comando no terminal
+
+```sh
+npm install --global yarn
+yarn -v
+```
+
+Se a versão o Yarn foi mostrada corretamente podemos partir para a parte de <a href="#clone">clonagem do projeto</a>
+
 <h3 id="clone">Clonando o repositório</h3>
+
+Para clonar a aplicação é necessário ter instalado o Git em sua maquina, mas vou partir do principio de que você já o tenha, caso contrario, veja como instalar no site oficial do <a href="https://git-scm.com/downloads" target="_blank">Git</a>
+
+Basta abrir o seu terminal em uma pasta de sua escolha e rodar o comando Git Clone:
+```sh
+git clone https://github.com/vonot/chuva-meteoros-devmedia.git
+```
+Após clonarmos o repositório temos que instalar as dependencias do projeto por meio do Yarn:
+
+```sh
+yarn install
+```
+
+Se você realizou todos os processos corretamente já está tudo preparado para <a href="#inciando">iniciarmos a aplicação</a>.
+<h3 id="iniciando">Iniciando aplicação</h3>
+Para executar só precisamos abiri a pasta do projeto com o terminal e executar o comando:
+
+```sh
+yarn start
+```
+
+<h2 id="tecnologia">Técnologia Utilizadas</h2>
+Para desenvolver esse proejeto foram utilizados:
+<ul>
+  <li><a href="https://nodejs.org/en/" target="_blank">NodeJS</a></li>
+  <li><a href="https://yarnpkg.com/" target="_blank">YarnPKG</a></li>
+  <li><a href="https://babeljs.io/" target="_blank">BabelJS</a></li>
+  <li><a href="https://expressjs.com/" target="_blank">Express</a></li>
+ </ul>
+<h2 id="autor">Autor</h2>
+<h2 id="licenca">Licença</h2>
