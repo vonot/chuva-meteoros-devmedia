@@ -1,6 +1,6 @@
 <h1 align="center" id="sobre">:comet: Chuva de Meteoros DevMedia</h1>
 
-<p align="center">Minha implementação do <a href='https://www.devmedia.com.br/javascript/Construindo-projeto-completo'>Projeto Chuva de Meteoros</a> proposto pela <a href='https://github.com/DevMedia'>@DevMedia</a> ao final do curso de JavaScript.</p>
+<p align="center">Minha implementação do <a href='https://www.devmedia.com.br/javascript/Construindo-projeto-completo' target="_blank">Projeto Chuva de Meteoros</a> proposto pela <a href='https://github.com/DevMedia'>@DevMedia</a> ao final do curso de JavaScript.</p>
 
 <p align="center">
 <a href='https://www.linkedin.com/in/vonot/'><img src="https://img.shields.io/static/v1?label=LinkedIn&message=/in/vonot&color=0A66C2&style=flat&logo=linkedin" title="/in/vonot/"/></a>
