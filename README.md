@@ -40,3 +40,7 @@
 
 <h2>Como Rodar</h2>
 <p>Explição basica sobre o node / yarn necessario para rodar</p>
+```bash
+# Clone o Repositoria
+$ git clone https://github.com/
+```
