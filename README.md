@@ -1,19 +1,18 @@
-# Chuva de Meteoros DevMedia
+<h1 align="center">Chuva de Meteoros DevMedia</h1>
 
-Minha implementação do [Projeto Chuva de Meteoros](https://www.devmedia.com.br/javascript/Construindo-projeto-completo) proposto pela [@DevMedia](https://github.com/DevMedia) ao final do curso de JavaScript.
+<p align="center" id="sobre">Minha implementação do <a href='https://www.devmedia.com.br/javascript/Construindo-projeto-completo'>Projeto Chuva de Meteoros</a> proposto pela <a href='https://github.com/DevMedia'>@DevMedia</a> ao final do curso de JavaScript.</p>
 
-## Tecnologia Utilizadas
-- [Node.js](https://nodejs.org/en/)
-- [Babel.js](https://babeljs.io/)
-- [Express](https://expressjs.com/pt-br/)
-- [Yarn](https://yarnpkg.com/)
+<p align="center">
+<a href='hhttps://www.linkedin.com/in/vonot/'><img src="https://img.shields.io/static/v1?label=LinkedIn&message=/in/vonot&color=0A66C2&style=flat&logo=linkedin"/></a>
+<img src="https://img.shields.io/static/v1?label=JavaScript&message=ES6&color=F7DF1E&style=flat&logo=javascript"/>
+<img src="https://img.shields.io/static/v1?label=NodeJS&message=7.12.16&color=339933&style=flat&logo=node.js" />
+<img src="https://img.shields.io/static/v1?label=BabelJS&message=7.12.16&color=f5da55&style=flat&logo=babel"/>
+<img src="https://img.shields.io/static/v1?label=Yarn&message=7.12.16&color=2C8EBB&style=flat&logo=yarn"/>
+</p>
 
-## Screenshot
-Situação padrão da aplicação: chuvas ocorrendo e chuvas proximas encontradas!
-![](img/1.gif)
+<h2>Tabela de Conteudo</h2>
 
-Situação incomum da aplicação: nenhuma chuva ocorrendo foi encontrada!
-![](img/2.gif)
-
-Situação incomum da aplicação²: nenhuma chuva próxima foi encontrada!
-![](img/3.gif)
+<ul>
+  <a href="#sobre"><li>Sobre</li></a>
+  <li>Tabela de Conteudo</li>
+</ul>
