@@ -32,9 +32,26 @@
 </ul>
 
 <h2 id="funcionalidades">Funcionalidades</h2>
-<p>Descrição basica da implementação</p>
+<p>
+  O sistema desenvolvido em módulos recebe um arquivo .JS externo com um array de objetos contendo informações sobre chuvas de meteoros:
+  
+  ```js
+  const chuva de meteoros = [
+  {nome: 'meteoro', inicio: '01/28', fim: '02/21', pico: 'Fev 8', ascensao: 210, declinacao: -59, velocidade: 56, thz: '6', intensidade: 'Média'},
+  ....
+  ];
+  ```
+  
+  O algoritimo deve tratar esses dados e apresenta-los ao usuario na forma de duas listas diferentes:
+  * <strong>Chuvas de Meteoros Ocorrendo</strong> e
+  * <strong>Chuvas de Meteoros Próximas<strong>
+</p>
+  
 <h3>Chuvas de Meteoros Ocorrendo</h3>
-<p>Condição para a lista de meteoros ocorrendo</p>
+
+Para criarmos a lista de Chuvas Ocorrendo é necessário capturar a data do computador do usuario e verificarmos se existe alguma chuva de meteoro ocorrendo naquele dia.
+
+![](img/3.gif)
 <h3>Chuvas de Meteoros Próximas</h3>
 <p>Condição para a lista de meteoros proximos</p>
 
