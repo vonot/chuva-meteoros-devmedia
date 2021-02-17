@@ -1,8 +1,8 @@
 export const chuvasDeMeteoros = [
     { nome: 'Alfa Centaurídeos',          inicio: '01/28', fim: '02/21', pico: 'Fev 8',   ascencao: 210,  declinacao: -59,  velocidade: 56, thz: '6',        intensidade: 'Média'},
-    //{ nome: 'Gama Normídeos',             inicio: '02/25', fim: '03/22', pico: 'Mar 14',  ascencao: 239,  declinacao: -50,  velocidade: 56, thz: '6',        intensidade: 'Média'},
-    //{ nome: 'Pi Pupídeos',                inicio: '04/15', fim: '04/28', pico: 'Abr 23',  ascencao: 110,  declinacao: -45,  velocidade: 18, thz: 'Variável', intensidade: 'Irregular'},
-    //{ nome: 'Líridas',                    inicio: '04/16', fim: '04/25', pico: 'Abr 22',  ascencao: 271,  declinacao:  34,  velocidade: 49, thz: '18',       intensidade: 'Forte com meteoros rápidos e persistentes'},
+    { nome: 'Gama Normídeos',             inicio: '02/25', fim: '03/22', pico: 'Mar 14',  ascencao: 239,  declinacao: -50,  velocidade: 56, thz: '6',        intensidade: 'Média'},
+    { nome: 'Pi Pupídeos',                inicio: '04/15', fim: '04/28', pico: 'Abr 23',  ascencao: 110,  declinacao: -45,  velocidade: 18, thz: 'Variável', intensidade: 'Irregular'},
+    { nome: 'Líridas',                    inicio: '04/16', fim: '04/25', pico: 'Abr 22',  ascencao: 271,  declinacao:  34,  velocidade: 49, thz: '18',       intensidade: 'Forte com meteoros rápidos e persistentes'},
     { nome: 'Eta Aquáridas',              inicio: '04/19', fim: '05/28', pico: 'Mai 5',   ascencao: 338,  declinacao:  -1,  velocidade: 66, thz: '65',       intensidade: 'Forte com meteoros muito rápidos e de grande comprimento'},
     { nome: 'Eta Líridas',                inicio: '05/03', fim: '05/14', pico: 'Mai 8',   ascencao: 287,  declinacao:  44,  velocidade: 43, thz: '3',        intensidade: 'Fraca'},
     { nome: 'Bootídeos de Junho',         inicio: '06/28', fim: '06/28', pico: 'Jun 28',  ascencao: 224,  declinacao:  48,  velocidade: 18, thz: 'Variável', intensidade: 'Irregular'},
