@@ -10,9 +10,26 @@
 <img src="https://img.shields.io/static/v1?label=Yarn&message=7.12.16&color=2C8EBB&style=flat&logo=yarn"/>
 </p>
 
-<h2>Tabela de Conteudo</h2>
+<h2 id="tabela-conteudo">Tabela de Conteudo</h2>
 
 <ul>
-  <a href="#sobre"><li>Sobre</li></a>
-  <li>Tabela de Conteudo</li>
+  <li><a href="#sobre">Sobre</a></li>
+  <li><a href="#tabela-conteudo">Tabela de Conteudo<a></li>
+   <li><a href="#funcionalidades">Funcionalidades</a>
+    <ul>
+      <li>Screenshots</li>
+     </ul>
+   </li>
+  <li>Como Rodar
+   <ul>
+      <li>Pré Requisitos</li>
+      <li>Clonando Repositório</li>
+      <li>Iniciando Aplicação</li>
+    </ul>
+  </li>
 </ul>
+
+<h2 id="funcionalidades">Funcionalidades</h2>
+
+<h3>Chuvas de Meteoros Ocorrendo</h3>
+<h3>Chuvas de Meteoros Próximas</h3>
